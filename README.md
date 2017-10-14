@@ -11,17 +11,17 @@ Accede a la pestaña `Issues` o haz click [aquí](https://github.com/Frontaneria
 ### ¿Cómo plantar las dudas?
 
 Lo primero que hay que tener en cuenta es que, cuando se plantea una duda no hay información de más.
-Tenemos que **contenstualizar** nuestra duda o problema para que se pueda entender y plantear una posible solución.
+Tenemos que **contextualizar** nuestra duda o problema para que se pueda entender y plantear una posible solución.
 
 Ya hace un tiempo [Wakkos](https://twitter.com/Wakkos) escribió un artículo donde habla de ello [Aprender a preguntar](http://coolvillage.es/aprender-a-preguntar/).
 
 ## ¿Cuándo?
 
-Todos los miembros de la comunidad somos profesionales con un tiempo libre muy escaso, por lo que el tiempo de respuesta de las dudas panteadas puede variar y en ocasiones demorarse más de lo esperado. Tened paciencia, en muchos casos vuestras dudas os pareceran de vital importancia resolverlas en el menor tiempo posible... en estas ocasiones recuerdo la frase de un personaje de la película de Pixar **Toy Story 2**.
+Todos los miembros de la comunidad somos profesionales con un tiempo libre muy escaso, por lo que el tiempo de respuesta de las dudas planteadas puede variar y en ocasiones demorarse más de lo esperado. Tened paciencia, en muchos casos vuestras dudas os pareceran de vital importancia resolverlas en el menor tiempo posible... en estas ocasiones recuerdo la frase de un personaje de la película de Pixar **Toy Story 2**.
 
 > You can't rush art - Geri
 
-## ¿Quien?
+## ¿Quién?
 
 Frontanería es una comunidad de gente que nos apasiona el diseño UI, UX y desarrollo front-end, así como compartir conocimineto. Con este proyecto llevamos un paso más allá nuestro compromiso con la comunidad y nos ofrecemos para resolver las dudas que se nos planteen.
 
