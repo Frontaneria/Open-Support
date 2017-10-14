@@ -20,6 +20,11 @@ Ya hace un tiempo [Wakkos](https://twitter.com/Wakkos) escribió un artículo do
 > - Si vuestra pregunta es sobre un código que no funciona, extraedlo, aisladlo y reproducidlo porque es más fácil detectar un error en 20 líneas de código que en 300. (Aunque, por experiencia, el error suele estar ‘fuera’ de donde la persona cree que está). 
 > - Para ello existen herramientas como [Codepen](https://codepen.io/), [JsFiddle](https://jsfiddle.net/) y muchas otras que seguro conoceréis mejor.
 
+### Consultas con ejemplos
+
+- La mayoría de consultas seguro que irán acompañadas de código. Para ayudar a la legibilidad es mejor utilizar la sintaxis [Markdown](https://guides.github.com/features/mastering-markdown/)
+- Otra de las opciones de mejorar la compresión de las dudas o problemas, es adjuntar una captura de pantalla.
+
 
 ## ¿Cuándo?
 
