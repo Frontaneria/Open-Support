@@ -6,7 +6,7 @@ Open Support nace como una iniciativa, sin ánimo de lucro, para dar soporte a d
 
 La plataforma elegida ha sido **GitHub**, ya que es una plataforma que nos permite resolver las dudas de una forma colaborativa. Haber elegido esta plataforma implica que las personas que quieran plantear sus dudas deberán tener una cuenta en [GitHub](https://github.com/join). Si no eres usuario/a te animamos a que crees tu cuenta, es un buen sitio donde mostrar tu código y contribuir al [Open Source](https://es.wikipedia.org/wiki/Software_de_c%C3%B3digo_abierto).
 
-Accede a la pestaña `Issues` o haz click [aquí](https://github.com/Frontaneria/Open-Support/issues) para plantear tu duda, aprender viendo las dudas resueltas de otra gente o ayudar a alguien con tu respuesta 😊
+Accede a la pestaña [<img width="135" alt="issues" src="https://user-images.githubusercontent.com/1307927/31576309-5cce4ea8-b0f8-11e7-8166-860cf58af545.png">](https://github.com/Frontaneria/Open-Support/issues) para plantear tu duda, aprender viendo las dudas resueltas de otra gente o ayudar a alguien con tu respuesta 😊
 
 ### ¿Cómo plantar las dudas?
 
