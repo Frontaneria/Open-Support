@@ -4,16 +4,16 @@ Open Support nace como una iniciativa, sin ánimo de lucro, para dar soporte a d
 
 ## ¿Cómo?
 
-La plataforma elegida ha sido **GitHub**, ya que es una plataforma que nos permite resolver las dudas de una forma colaborativa. Haber elegido esta plataforma implica que las personas que quieran plantear sus dudas deberán tener una cuenta en [GitHub](https://github.com/join). Si no eres usuario/a te animamios a que crees tu cuenta, es un buen sitio donde mostrar tu código y contribuir al [Open Source](https://es.wikipedia.org/wiki/Software_de_c%C3%B3digo_abierto).
+La plataforma elegida ha sido **GitHub**, ya que es una plataforma que nos permite resolver las dudas de una forma colaborativa. Haber elegido esta plataforma implica que las personas que quieran plantear sus dudas deberán tener una cuenta en [GitHub](https://github.com/join). Si no eres usuario/a te animamos a que crees tu cuenta, es un buen sitio donde mostrar tu código y contribuir al [Open Source](https://es.wikipedia.org/wiki/Software_de_c%C3%B3digo_abierto).
 
-Accede a la pestaña `Issues` o haz click [aquí](https://github.com/Frontaneria/Open-Support/issues) para plantar tu duda, aprender viendo las dudas resueltas de otra gente o ayudar a alguien con tu respuesta 😊
+Accede a la pestaña `Issues` o haz click [aquí](https://github.com/Frontaneria/Open-Support/issues) para plantear tu duda, aprender viendo las dudas resueltas de otra gente o ayudar a alguien con tu respuesta 😊
 
 ### ¿Cómo plantar las dudas?
 
 Lo primero que hay que tener en cuenta es que, cuando se plantea una duda no hay información de más.
 Tenemos que **contextualizar** nuestra duda o problema para que se pueda entender y plantear una posible solución.
 
-Ya hace un tiempo [Wakkos](https://twitter.com/Wakkos) escribió un artículo donde habla de ello [Aprender a preguntar](http://coolvillage.es/aprender-a-preguntar/).
+Ya hace un tiempo [Wakkos](https://twitter.com/Wakkos) escribió un artículo donde habla de ello: [Aprender a preguntar](http://coolvillage.es/aprender-a-preguntar/).
 
 > - Reproduce el error en un entorno aislado.
 > - Se que si leéis lo que escribo es porque os va un poco el código. 
