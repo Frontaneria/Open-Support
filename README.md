@@ -15,6 +15,12 @@ Tenemos que **contextualizar** nuestra duda o problema para que se pueda entende
 
 Ya hace un tiempo [Wakkos](https://twitter.com/Wakkos) escribió un artículo donde habla de ello [Aprender a preguntar](http://coolvillage.es/aprender-a-preguntar/).
 
+> - Reproduce el error en un entorno aislado.
+> - Se que si leéis lo que escribo es porque os va un poco el código. 
+> - Si vuestra pregunta es sobre un código que no funciona, extraedlo, aisladlo y reproducidlo porque es más fácil detectar un error en 20 líneas de código que en 300. (Aunque, por experiencia, el error suele estar ‘fuera’ de donde la persona cree que está). 
+> - Para ello existen herramientas como [Codepen](https://codepen.io/), [JsFiddle](https://jsfiddle.net/) y muchas otras que seguro conoceréis mejor.
+
+
 ## ¿Cuándo?
 
 Todos los miembros de la comunidad somos profesionales con un tiempo libre muy escaso, por lo que el tiempo de respuesta de las dudas planteadas puede variar y en ocasiones demorarse más de lo esperado. Tened paciencia, en muchos casos vuestras dudas os pareceran de vital importancia resolverlas en el menor tiempo posible... en estas ocasiones recuerdo la frase de un personaje de la película de Pixar **Toy Story 2**.
