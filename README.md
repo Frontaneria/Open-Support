@@ -39,3 +39,4 @@ Frontanería es una comunidad de gente que nos apasiona el diseño UI, UX y desa
 Actualmente estas son las personas que participan en la resolución de las dudas planteadas.
 
 - [Joan León | @nucliweb](https://github.com/nucliweb)
+- [Ignacio Villanueva | @IgnaciodeNuevo](https://twitter.com/IgnaciodeNuevo)
