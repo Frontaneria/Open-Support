@@ -16,8 +16,8 @@ Tenemos que **contextualizar** nuestra duda o problema para que se pueda entende
 Ya hace un tiempo [Wakkos](https://twitter.com/Wakkos) escribió un artículo donde habla de ello: [Aprender a preguntar](http://coolvillage.es/aprender-a-preguntar/).
 
 > - Reproduce el error en un entorno aislado.
-> - Sé que si leéis lo que escribo es porque os va un poco el código. 
-> - Si vuestra pregunta es sobre un código que no funciona, extraedlo, aisladlo y reproducidlo porque es más fácil detectar un error en 20 líneas de código que en 300. (Aunque, por experiencia, el error suele estar ‘fuera’ de donde la persona cree que está). 
+> - Sé que si leéis lo que escribo es porque os va un poco el código.
+> - Si vuestra pregunta es sobre un código que no funciona, extraedlo, aisladlo y reproducidlo porque es más fácil detectar un error en 20 líneas de código que en 300. (Aunque, por experiencia, el error suele estar ‘fuera’ de donde la persona cree que está).
 > - Para ello existen herramientas como [Codepen](https://codepen.io/), [JsFiddle](https://jsfiddle.net/) y muchas otras que seguro conoceréis mejor.
 
 ### Consultas con ejemplos
@@ -40,3 +40,4 @@ Actualmente estas son las personas que participan en la resolución de las dudas
 
 - [Joan León | @nucliweb](https://github.com/nucliweb)
 - [Ignacio Villanueva | @IgnaciodeNuevo](https://twitter.com/IgnaciodeNuevo)
+- [Angel M Miguel](https://github.com/Angelmmiguel) | [@Laux_es](https://twitter.com/Laux_es)
