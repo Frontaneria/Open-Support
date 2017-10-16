@@ -8,7 +8,7 @@ La plataforma elegida ha sido **GitHub**, ya que es una plataforma que nos permi
 
 Accede a la pestaña [<img width="135" alt="issues" src="https://user-images.githubusercontent.com/1307927/31576309-5cce4ea8-b0f8-11e7-8166-860cf58af545.png">](https://github.com/Frontaneria/Open-Support/issues) para plantear tu duda, aprender viendo las dudas resueltas de otra gente o ayudar a alguien con tu respuesta 😊
 
-### ¿Cómo plantar las dudas?
+### ¿Cómo plantear las dudas?
 
 Lo primero que hay que tener en cuenta es que, cuando se plantea una duda no hay información de más.
 Tenemos que **contextualizar** nuestra duda o problema para que se pueda entender y plantear una posible solución.
@@ -16,7 +16,7 @@ Tenemos que **contextualizar** nuestra duda o problema para que se pueda entende
 Ya hace un tiempo [Wakkos](https://twitter.com/Wakkos) escribió un artículo donde habla de ello: [Aprender a preguntar](http://coolvillage.es/aprender-a-preguntar/).
 
 > - Reproduce el error en un entorno aislado.
-> - Se que si leéis lo que escribo es porque os va un poco el código. 
+> - Sé que si leéis lo que escribo es porque os va un poco el código. 
 > - Si vuestra pregunta es sobre un código que no funciona, extraedlo, aisladlo y reproducidlo porque es más fácil detectar un error en 20 líneas de código que en 300. (Aunque, por experiencia, el error suele estar ‘fuera’ de donde la persona cree que está). 
 > - Para ello existen herramientas como [Codepen](https://codepen.io/), [JsFiddle](https://jsfiddle.net/) y muchas otras que seguro conoceréis mejor.
 
