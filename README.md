@@ -43,4 +43,5 @@ Actualmente estas son las personas que participan en la resolución de las dudas
 - [Ignacio Villanueva](https://github.com/ignaciodenuevo) | [@IgnaciodeNuevo](https://twitter.com/IgnaciodeNuevo)
 - [Joan León](https://github.com/nucliweb) | [@nucliweb](https://twitter.com/nucliweb)
 - [Quique Fdez Guerra](https://github.com/ckgrafico) | [@CKGrafico](https://twitter.com/CKGrafico)
+- [Miguel Mínguez](https://github.com/mminguezz) | [@m_minguezz](https://twitter.com/m_minguezz)
 
