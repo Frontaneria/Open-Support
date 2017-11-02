@@ -34,7 +34,7 @@ Todos los miembros de la comunidad somos profesionales con un tiempo libre muy e
 
 ## ¿Quién?
 
-Frontanería es una comunidad de gente que nos apasiona el diseño UI, UX y desarrollo front-end, así como compartir conocimineto. Con este proyecto llevamos un paso más allá nuestro compromiso con la comunidad y nos ofrecemos para resolver las dudas que se nos planteen.
+Frontanería somos una comunidad de gente que nos apasiona el diseño UI, UX y desarrollo front-end, así como compartir conocimineto. Con este proyecto llevamos un paso más allá nuestro compromiso con la comunidad y nos ofrecemos para resolver las dudas que se nos planteen.
 
 Actualmente estas son las personas que participan en la resolución de las dudas planteadas.
 
