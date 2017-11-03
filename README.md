@@ -45,4 +45,4 @@ Actualmente estas son las personas que participan en la resolución de las dudas
 - [Miguel Mínguez](https://github.com/mminguezz) | [@m_minguezz](https://twitter.com/m_minguezz)
 - [Paco Segovia](https://github.com/pacosegovia) | [@sego](https://twitter.com/sego)
 - [Quique Fdez Guerra](https://github.com/ckgrafico) | [@CKGrafico](https://twitter.com/CKGrafico)
-
+- [Rodrigo Erades](https://github.com/area73) | [@area_73](https://twitter.com/area_73)
