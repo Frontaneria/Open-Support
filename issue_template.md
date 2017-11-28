@@ -3,7 +3,7 @@
 
 * **Danos información general sobre el problema**
 
-* **Si es un problema ¿Cómo está funcionando ahora?** Por favor, si es posible, incluye un codepen o similar.**
+* **Si es un problema ¿Cómo está funcionando ahora?** Por favor, si es posible, incluye un codepen o similar.
 
 
 * **¿De qué modo debería funcionar?**
