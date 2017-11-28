@@ -45,6 +45,7 @@ Actualmente estas son las personas que participan en la resolución de las dudas
 - [Aarón García Hervás](https://github.com/aarongarciah) | [@aarongarciah](https://twitter.com/aarongarciah)
 - [Angel M Miguel](https://github.com/Angelmmiguel) | [@Laux_es](https://twitter.com/Laux_es)
 - [Ignacio Villanueva](https://github.com/ignaciodenuevo) | [@IgnaciodeNuevo](https://twitter.com/IgnaciodeNuevo)
+- [Javier López de Ancos](https://github.com/javierlopezdeancos) | [@javierland](https://twitter.com/javierland)
 - [Joan León](https://github.com/nucliweb) | [@nucliweb](https://twitter.com/nucliweb)
 - [Miguel Mínguez](https://github.com/mminguezz) | [@m_minguezz](https://twitter.com/m_minguezz)
 - [Paco Segovia](https://github.com/pacosegovia) | [@sego](https://twitter.com/sego)
