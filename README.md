@@ -29,8 +29,8 @@ Ya hace un tiempo [Wakkos](https://twitter.com/Wakkos) escribió un artículo do
 
 - La mayoría de consultas seguro que irán acompañadas de código. Para ayudar a la legibilidad es mejor utilizar la sintaxis [Markdown](https://guides.github.com/features/mastering-markdown/)
 - Otra de las opciones de mejorar la compresión de las dudas o problemas, es adjuntar una captura de pantalla.
-### ¿Cuándo?
 
+### ¿Cuándo?
 
 Todos los miembros de la comunidad somos profesionales con un tiempo libre muy escaso, por lo que el tiempo de respuesta de las dudas planteadas puede variar y en ocasiones demorarse más de lo esperado. Tened paciencia, en muchos casos vuestras dudas os pareceran de vital importancia resolverlas en el menor tiempo posible... en estas ocasiones recuerdo la frase de un personaje de la película de Pixar **Toy Story 2**.
 
